@@ -41,15 +41,10 @@ A comprehensive financial analysis tool that automates the process of analyzing 
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 ```bash
-git clone https://github.com/yourusername/financial-analysis-dashboard.git
-cd financial-analysis-dashboard
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
+git clone https://github.com/ZhongyuXie921/financial-analysis-analysis.git
+cd financial-analysis-analysis
 ```
 
 ## Usage
@@ -121,9 +116,6 @@ financial-analysis-dashboard/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
@@ -133,7 +125,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-If you have any questions or suggestions, please open an issue or contact [your-email@example.com].
+If you have any questions or suggestions, please open an issue or contact zhongyuxie921@gmail.com.
 
 ---
 **Note**: This tool is for educational and research purposes only. Always verify financial data and consult with financial professionals before making investment decisions.
